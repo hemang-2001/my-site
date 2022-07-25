@@ -87,8 +87,8 @@ article {
   position: absolute;
   inset: 1px;
   background: hsl(240, 2%, 13%);
-  border-radius: inherit
-  z-index: -1;
+  border-radius: inherit;
+  Z-index : -1;
 }
 
 .icon-box ion-icon { --ionicon-stroke-width: 35px; }
